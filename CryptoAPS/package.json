@@ -1,0 +1,7 @@
+{
+  "name": "cryptoaps",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Demonstração local de AES-256-GCM com Web Crypto API"
+}
